@@ -12,4 +12,4 @@ BSc in Operations Research (JKUAT), with a background spanning operations resear
 
 ## Contact
 - LinkedIn: *www.linkedin.com/in/diana-nzau-5b84b5256*
-- Email: *dianandunge30@gmail.com*
+- Email: *nzau.diana00@gmail.com*
