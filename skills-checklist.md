@@ -1,16 +1,13 @@
 # Data Analyst Skills Checklist
 
-Proficiency scale: None · Basic · Intermediate · Advanced
 
 | Skill | Proficiency |
 |---|---|
-| SQL | |
-| Microsoft Excel | |
-| Statistics | |
-| Data visualization (e.g., Tableau, Power BI, matplotlib) | |
-| Python or R | |
-| Presentation & communication | |
-| Critical thinking / problem framing | |
-| Git/GitHub & version control | |
-
-*Update the proficiency column as each skill is learned and practiced.*
+| SQL | Advanced |
+| Microsoft Excel | Advanced |
+| Statistics | Advanced |
+| Data visualization | Advanced |
+| R | Advanced |
+| Presentation & communication | Advanced |
+| Critical thinking / problem framing | Advanced |
+| Git/GitHub & version control | Advanced |
