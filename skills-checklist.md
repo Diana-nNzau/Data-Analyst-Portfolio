@@ -13,4 +13,4 @@ Proficiency scale: None · Basic · Intermediate · Advanced
 | Critical thinking / problem framing | Advanced | Operations Research training; Best Final Year Project |
 | Git/GitHub & version control | Basic | This repository |
 
-Update the proficiency column as each skill is learned and practised.
+The proficiency column will be updated as each skill is learned and practiced.
