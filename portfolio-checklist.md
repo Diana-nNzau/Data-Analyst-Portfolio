@@ -9,4 +9,4 @@
 - [ ] At least one project reflecting a genuine personal interest (not just a tutorial dataset)
 - [x] Proofread, working links, mobile-friendly if it's a website
 
-_Update this checklist as each item is completed while progressing through the course._
+_This checklist will be updated as I complete each item while progressing through my projects._
